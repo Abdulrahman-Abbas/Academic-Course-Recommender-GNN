@@ -1,0 +1,56 @@
+﻿topic_id;topic_name;category
+T_PROGRAMMING_BASICS;Programming basics;programming
+T_OOP;Object-oriented programming;programming
+T_ALGORITHMIC_THINKING;Algorithmic thinking;algorithms
+T_DATA_STRUCTURES;Data structures;algorithms
+T_TIME_COMPLEXITY;Time complexity;algorithms
+T_SORTING;Sorting algorithms;algorithms
+T_SEARCHING;Searching algorithms;algorithms
+;;
+T_DISCRETE_LOGIC;Logic and proofs;discrete_math
+T_GRAPHS;Graph theory;discrete_math
+T_COMBINATORICS;Combinatorics;discrete_math
+;;
+T_VECTORS;Vectors;linear_algebra
+T_MATRICES;Matrices;linear_algebra
+T_EIGEN;Eigenvalues and eigenvectors;linear_algebra
+T_LINEAR_SYSTEMS;Linear systems;linear_algebra
+;;
+T_PROBABILITY;Probability fundamentals;probability
+T_RANDOM_VARIABLES;Random variables;probability
+T_DISTRIBUTIONS;Probability distributions;probability
+T_STATISTICAL_INFERENCE;Statistical inference;statistics
+;;
+T_SQL_SELECT;SQL SELECT queries;databases
+T_SQL_JOINS;SQL joins;databases
+T_INDEXING;Indexing;databases
+T_NORMALIZATION;Database normalization;databases
+;;
+T_SUPERVISED;Supervised learning;ml_core
+T_UNSUPERVISED;Unsupervised learning;ml_core
+T_LINEAR_REGRESSION;Linear regression;ml_core
+T_LOGISTIC_REGRESSION;Logistic regression;ml_core
+T_KNN;k-Nearest Neighbors;ml_core
+T_DECISION_TREES;Decision trees;ml_core
+T_OVERFITTING;Overfitting;ml_core
+T_CROSS_VALIDATION;Cross-validation;ml_core
+;;
+T_GRADIENT_DESCENT;Gradient descent;optimization
+T_CONVEXITY;Convex optimization;optimization
+T_REGULARIZATION;Regularization;optimization
+;;
+T_NEURAL_NETWORKS;Neural networks;deep_learning
+T_BACKPROPAGATION;Backpropagation;deep_learning
+T_CNN;Convolutional neural networks;deep_learning
+T_RNN;Recurrent neural networks;deep_learning
+;;
+T_NLP_BASICS;Natural language processing basics;nlp
+T_TEXT_EMBEDDINGS;Text embeddings;nlp
+;;
+T_DISTRIBUTED_SYSTEMS;Distributed systems;systems
+T_OPERATING_SYSTEMS;Operating systems;systems
+T_CONCURRENCY;Concurrency and synchronization;systems
+;;
+T_BIG_DATA;Big data processing;data_engineering
+T_DATA_PIPELINES;Data pipelines;data_engineering
+T_DATA_WAREHOUSING;Data warehousing;data_engineering

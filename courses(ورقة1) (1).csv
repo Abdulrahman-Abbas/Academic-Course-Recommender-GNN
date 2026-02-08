@@ -1,0 +1,76 @@
+﻿level;credits;course_name;course_id
+100;0;Computer Skills (Catch-up);11100
+100;0;Communication Skills in Arabic (Remedial);31021
+100;0;English Communication Skills (Remedial);31022
+100;3;Communication Skills in Arabic;31112
+100;3;English Communication Skills;31122
+100;3;National Education;31151
+100;0;Leadership and Social Responsibility;31160
+100;3;Military Science;31251
+100;3;Leadership and Innovation;31254
+100;3;Life Skills;31374
+200;3;History of Science;20251
+100;3;Sports & Health;31100
+100;3;Foreign Languages;31130
+100;3;Arab-Islamic Civilization;31152
+100;3;Arabic Literature;31211
+100;3;Governance and Development;31252
+100;3;Human Rights;31260
+100;3;Introduction to Political Science and Economics;31261
+100;3;Introduction to Psychology;31264
+100;3;Development and Environment;31272
+100;3;Scientific Research Methods;31311
+100;3;Contemporary Issues in the Arab World;31351
+100;3;Jerusalem: Reality and History;31352
+100;3;Philosophy and Critical Thinking;31362
+100;3;Introduction to Computer Science;11102
+100;3;Constructivist Programming;11103
+100;1;Constructivist Programming Lab;11151
+200;3;Math (1);20132
+200;3;Math (2);20133
+200;3;Discrete Math (1);20134
+200;3;Technical Writing and Communication Skills;20200
+200;3;Statistical Methods;20233
+200;3;Linear Algebra;20234
+200;3;Programming with Entity;11206
+200;3;Data Synthesis and Introduction to Algorithms;11212
+200;1;Entity Programming Lab;11253
+300;3;Algorithm Analysis and Design;11313
+300;3;Database Systems;11323
+300;3;Operating Systems;11335
+300;1;Database Systems Laboratory;11354
+300;1;Operating Systems Laboratory;11355
+300;3;Distributed Systems;11436
+300;1;Computer and Society;11449
+300;3;Information Systems Security;11464
+300;3;Introduction to Data Science;14140
+300;1;Introduction to Data Science Lab;14141
+300;3;Data Engineering;14260
+300;1;Data Engineering Laboratory;14261
+300;3;Statistics and Probabilities for Data Science;14270
+300;1;Data Science Statistics and Probability Laboratory;14271
+300;3;Artificial Intelligence;14330
+300;1;Artificial Intelligence Lab;14331
+300;3;Computer Architecture and Machine Learning;14350
+300;3;Natural Language Processing;14351
+300;3;High-Performance Computing and Big Data;14362
+300;3;Data Review;14364
+300;3;Practical Training;14391
+400;3;Pattern Recognition;14452
+400;3;Data Mining and Repositories;14465
+400;3;Business Intelligence;14466
+400;1;Graduation Project (1);14492
+400;2;Graduation Project (2);14493
+300;3;Advanced Topics in Internet Programming;11344
+300;3;Data Messaging and Computer Networking;11435
+200;3;Multimedia Systems;12348
+200;3;Digital Image Processing;12446
+300;3;Software Project Management;13432
+300;3;Software Engineering;13477
+300;3;Data Science & Artificial Intelligence (1);14357
+400;3;Data Recovery;14455
+400;3;Robotics Programming;14456
+400;3;Computer Vision;14458
+400;3;Cloud Computing;14467
+400;3;Security and Confidentiality of Big Data;14468
+400;3;Data Science and Artificial Intelligence (2);14469
